@@ -1,6 +1,6 @@
 # Flickr Image Captioning with LSTM Generators
 
-Done as part of HW5 for COMS4705 at Columbia
+A project done during COMS4705 at Columbia.
 
 ![lstm](/fig/lstm.png)
 
